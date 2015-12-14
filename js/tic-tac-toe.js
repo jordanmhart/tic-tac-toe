@@ -1,4 +1,4 @@
-// Main JavaScript File
+// MAIN JavaScript File
 
 // **GAME REGISTRY**
 //arrays to hold cells that players have claimed
